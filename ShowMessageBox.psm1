@@ -26,7 +26,7 @@
    1.0 - 25/02/2016 - Richard Bunker - Initial Version
    1.1 - 03/05/2016 - Richard Bunker - Added support for displaying icons: Information, Warning, Question and Error
    1.2 - 08/06/2016 - Richard Bunker - Added 'None' as option for TypeOfIcon and made all arguments optional except for Message
-   1.3 - 25/08/2016 - Richard Bunker - Corrected output, now only outputs user response such as Yes, No, Abort etc
+   1.3 - 17/03/2018 - Richard Bunker - Corrected output, now only outputs user response such as Yes, No, Abort etc
 
 .FUNCTIONALITY
    Enables the use of Windows Form MessageBoxes in PowerShell
