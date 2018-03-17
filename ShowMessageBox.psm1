@@ -7,7 +7,7 @@
    A CMDlet to Display a Windows Forms MessageBox in Powershell Scripts
 
 .EXAMPLE
-   Show-MessageBox -Message "Failed to establish Remote PowerShell Session with $Variable" -Title "Failed to Connect" -TypeOfMessageBox OK
+   Show-MessageBox -Message "Failed to establish Remote PowerShell Session with $AnyVariable" -Title "Failed to Connect" -TypeOfMessageBox OK
    
    Description
    -----------
